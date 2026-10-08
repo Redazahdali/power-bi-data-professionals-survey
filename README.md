@@ -2,6 +2,8 @@
 
 [Français](#français) · [English](#english)
 
+![Data Professionals Survey Dashboard](Capture34.PNG)
+
 ## Français
 
 ### Présentation
@@ -20,11 +22,8 @@ Le tableau de bord permet d'explorer le profil des répondants, les salaires moy
 ### Outils et compétences
 **Power BI** · **Data Analysis** · **Data Visualization**
 
-### Aperçu
-Une capture du tableau de bord sera ajoutée au dépôt avec le fichier Power BI.
-
 ### Fichier du projet
-Le fichier Power BI `.pbix` sera disponible dans ce dépôt.
+[**Télécharger le fichier Power BI (.pbix)**](./projet%20%2C%20Programmers%20Data%20Survey.pbix)
 
 ### Statut
 **Terminé**
@@ -49,11 +48,8 @@ The dashboard explores respondent profiles, average salaries by job role, prefer
 ### Tools and skills
 **Power BI** · **Data Analysis** · **Data Visualization**
 
-### Preview
-A dashboard screenshot will be added to the repository together with the Power BI file.
-
 ### Project file
-The Power BI `.pbix` file will be available in this repository.
+[**Download the Power BI file (.pbix)**](./projet%20%2C%20Programmers%20Data%20Survey.pbix)
 
 ### Status
 **Completed**
